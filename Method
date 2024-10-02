@@ -1,0 +1,12 @@
+class Method {
+
+    //Method tanpa parameter
+    public void greet() {
+        System.out.println("Selamat datang di Handoyo Travel Group!");
+    }
+
+    //Method dengan parameter
+    public void harga(int harga){
+        System.out.println("Harga tiketnya adalah Rp " + harga);
+    }
+}
